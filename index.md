@@ -1,4 +1,7 @@
-{% include head.html %}
+---
+layout: default
+---
+
     <h1 id="hello">Hola universo cripto!</h1>
     <amp-youtube width="480" height="270" layout="responsive" data-videoid="pPsgLVfWLOQ"></amp-youtube>
     
@@ -62,6 +65,4 @@
       
     </main>
 
-    
-  </body>
-</html>
+
