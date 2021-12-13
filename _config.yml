@@ -1,0 +1,16 @@
+# Site settings
+name: Videos de Locademia Cripto
+title: Videos de Locademia Cripto
+description: "Videos de Locademia Cripto"
+url: "https://locademiacripto.github.io/amp/"
+# baseurl: /ejemplo-colecciones-jekyll
+
+# collections:
+#         sections:
+#                 output: false
+#         chapters:
+#                 output: true
+
+# Build settings
+markdown: kramdown
+permalinks: pretty
