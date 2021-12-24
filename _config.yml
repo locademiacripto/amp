@@ -1,11 +1,9 @@
-title: AMP v1
+title: Locademia Cripto
 author:
-  name: SidVal
-  email: your-email@domain.com
+  name: Waldo
+  email: hola@locademiadigital.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Inversiones, finanzas personales, criptomonedas, análisis técnico, noticias, y todo lo que sea sobre CRIPTO en tu idioma lo conseguís en LocademiaCripto.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,19 +14,19 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: waldd0
+    # github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    # instagram: jekyll
+    # instagram: LocademiaCripto
     # linkedin: jekyll
     # pinterest: jekyll
-    youtube: jekyll
+    youtube: LocademiaCripto
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
-    # telegram: jekyll
+    telegram: LocademiaCripto
     # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
